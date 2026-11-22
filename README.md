@@ -229,10 +229,10 @@ These are project-defined analytical categories, not official NASA fire-severity
 
 **Group Project — Programming for AI, 3rd Semester**
 
-- Member 1: [Name]
-- Member 2: [Name]
-- Member 3: [Name]
-- Member 4: [Name]
+- Member 1: [Muhammad Hasnain Raza (2025-AI-417)]
+- Member 2: [Urooj Iftikhar (2025-AI-386)]
+- Member 3: [Amrat Zaib (2025-AI-378)]
+- Member 4: [Muhammad Arsalan Razzaq (2025-AI-389)]
 
 ## 📚 Acknowledgements
 
